@@ -1,5 +1,7 @@
 ## ```.docx``` Pinecone/Langchain dataloader and splitter
 
+https://trasaterra.com/
+
 1. Create ```/docxs``` directory then place all .docx files inside 
 2. Run app and all ```/docxs``` files within the directory will be loaded into your vector store
 3. Use helper function to delet db 
@@ -17,4 +19,4 @@
 │   ├── client_file_03.docx
 
 ---
-https://trasaterra.com/
+
